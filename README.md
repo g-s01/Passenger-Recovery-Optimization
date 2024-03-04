@@ -5,6 +5,8 @@ operating frequency, timings, etc. Many passengers get impacted due to these sch
 changes and they need to be regularly re-accommodated to alternate flights. 
 
 The project uses a advanced and robust **Hybrid Classical-Quantum Solution** to identify optimal alternate flight solutions for all impacted passengers based on certain constraints and considering various factors like PNR priority, time to reach the destination, and special passenger types without jeopardizing the flight experience for the passengers.
+
+## Final Report
 [Report Link](https://drive.google.com/file/d/1UR59ydUBvfly3OPW83lyi90H74wFzNZg/view?usp=drive_link)
 
 ## Business Rules Engine using Streamlit
@@ -110,6 +112,19 @@ Following this, we have 2 more pages corresponding to the other two solutions.
 - **displays only after generating solution files**
   
 ![Statistics](./assets/Statistics_SS2.png)
+
+## Credits
+
+* [Gautam Sharma](https://g-s01.github.io/)
+* Sreehari Chandran
+* Dhanesh Vijay
+* Shivam Garg
+* Aryan Lath
+* Shivam Agrawal
+* Ayush Savar
+* Ayush Kumar
+* Rahul Mareja
+* Saundarya Keshari
 
 
 
